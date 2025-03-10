@@ -25,7 +25,8 @@ Identified trends in product performance and customer behavior.
 
 ### Dashboard Pages
 
-Home Page![pro21](https://github.com/user-attachments/assets/37b658ff-7d99-4005-9a1c-f6684b410544)
+Home Page!![pro221](https://github.com/user-attachments/assets/d33ce73e-1c61-4a33-b4bf-bb64fd3dcb03)
+
 
 Overview![pro22](https://github.com/user-attachments/assets/4d78f872-0525-40ba-87cf-36d7e573497a)
 
